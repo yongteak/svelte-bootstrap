@@ -1,0 +1,4 @@
+bun i -D tailwindcss postcss autoprefixer  
+bun i svelte-add@latest tailwindcss
+bun tailwindcss init -p
+bun --bun run dev --open
