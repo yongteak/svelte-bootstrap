@@ -1,12 +1,11 @@
-<div class="m-4">
-    <h1 class="text-green-500 text-4xl font-bold px-20">
-        Hello World
-    </h1>
-    <string>Tailwind Css tutorial</string>
-    <p>
-        You can use Tailwind CSS as a replacement of CSS,
-        this is a framework that increase your pace to
-        design any website.
-    </p>
-</div>
-
+<center> 
+    <h1 class="text-green-600 text-5xl font-bold"> 
+        GeeksforGeeks 
+    </h1>  
+    <b>Tailwind CSS object Class</b>  
+    <div class="bg-green-300 w-full h-full"> 
+    <img class="object-contain h-48 w-full" 
+         src= 
+"https://media.geeksforgeeks.org/wp-content/uploads/20190807114330/GFG115.png">     
+  
+</center> 
