@@ -1,0 +1,7 @@
+https://lucide.dev/
+
+bun i lucide-svelte
+
+# shadcn컴포넌트 설치 (필수)
+npx shadcn-svelte@latest init
+

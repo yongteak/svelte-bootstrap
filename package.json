@@ -24,6 +24,12 @@
   },
   "type": "module",
   "dependencies": {
-    "svelte-add": "^2024.2.16-0.0"
+    "bits-ui": "^0.21.3",
+    "clsx": "^2.1.0",
+    "lucide-svelte": "^0.368.0",
+    "svelte-add": "^2024.2.16-0.0",
+    "tailwind-merge": "^2.2.2",
+    "tailwind-variants": "^0.2.1",
+    "vaul-svelte": "^0.3.0"
   }
 }
